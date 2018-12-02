@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dovui</string>
+    <string name="cauhoi1">Việt Nam thuộc châu Á?</string>
+    <string name="dung">Đúng</string>
+    <string name="sai">Sai</string>
+    <string name="truoc">Trước</string>
+    <string name="sau">Sau</string>
+</resources>
